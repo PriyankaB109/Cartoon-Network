@@ -1,0 +1,63 @@
+body{
+    background: url(https://oquartonerd.com.br/wp-content/uploads/2020/05/screen-5.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Oswald', sans-serif;
+}           
+.heading{
+    width: 1400px;
+    height: 80px;
+    margin-left: 380px;
+    margin-top: 175px;
+    background:rgb(10, 7, 0);
+
+}
+.show{
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(7, 16, 19);
+}
+h1{
+    color: blue;
+}
+.heading h1{
+    position: absolute;
+    margin-left: 430px;
+    color: white;
+    margin-top: 15px;
+}
+.main{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    width: 1400px;
+    height: 800px;
+    background: rgba(0, 0, 0, 0.66);
+    margin-left: 380px;
+}
+h2{
+    margin-left: 120px;
+    margin-top: 50px;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+.first{
+    margin-left: 60px;
+}
+.firstimage{
+   margin-left: 0px;
+   margin-top: 40px;
+}
+.second{
+    margin-left: 50px;
+}
+.secondimage{
+    margin-top: 40px;
+}
+.image{
+    width: 160px;
+    height: 180px;
+    border-radius: 5px 5px 0px 0px;
+    margin-left: 20px;
+    margin-top: 25px;
+}
